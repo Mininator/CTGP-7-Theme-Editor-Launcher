@@ -8,5 +8,5 @@ This is software that allows you to create themes for the CTGP-7 launcher.
 |-------------|---------------|
 | Windows 11/10 | ✅ Supported    |
 | Linux       | ❌ Not Supported |
-| macOS       | ❌ Not Supported |
-| android |❌ Not Supported|
+| MacOS       | ❌ Not Supported |
+| Android |❌ Not Supported|

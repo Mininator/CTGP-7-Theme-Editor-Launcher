@@ -13,13 +13,14 @@ Edit every sprite and sound of the launcher, check the result live, and send you
 
 ---
 
-## ✨ Features
+## 🚀 Getting started
 
-- 🖼️ **Sprite editor**: replace, export and revert every image of the launcher
-- 🎨 **Recoloring**: hue, saturation and brightness sliders, applied to one sprite or to the whole theme
-- 🔊 **Sound editor**: waveform viewer, playback, WAV/OGG → BCWAV conversion
-- 👀 **Launcher preview**: see how your colors work together on both screens
-- 📡 **Send to the 3DS**: upload your theme over FTP in one click
+1. Download the latest release and extract it.
+2. Make sure the `cwavtool` folder is next to the editor (required for sound conversion).
+3. Launch the editor.
+4. Edit your sprites and sounds, check the **Launcher preview** tab.
+5. Send the theme to your 3DS with **Send to the 3DS (FTP)...**.
+
 
 ---
 
@@ -93,15 +94,7 @@ Available tools:
 
 The theme is installed on the SD card in `sdmc:/CTGP-7/MyStuff/LauncherFS`.
 
----
 
-## 🚀 Getting started
-
-1. Download the latest release and extract it.
-2. Make sure the `cwavtool` folder is next to the editor (required for sound conversion).
-3. Launch the editor.
-4. Edit your sprites and sounds, check the **Launcher preview** tab.
-5. Send the theme to your 3DS with **Send to the 3DS (FTP)...**.
 
 ---
 

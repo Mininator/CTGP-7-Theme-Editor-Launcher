@@ -26,7 +26,7 @@ Edit every sprite and sound of the launcher, check the result live, and send you
 ## 🖥️ Interface
 
 ### Sprite tab
-![Sprite editor](screenshots/sprite.png)
+![Sprite editor](screenshots/1_image.png)
 
 Select an item in the list on the left to edit it. All the launcher elements are listed with their expected size:
 
@@ -49,7 +49,7 @@ Available tools:
   - Optional *Include the texts* for a full-theme recolor
 
 ### Sound tab
-![Sound editor](screenshots/sound.png)
+![Sound editor](screenshots/2.image.png)
 
 - Shows the format info of the sound (codec, sample rate, channels, duration) and a waveform
 - **Play / Stop** to listen to the sound
@@ -61,7 +61,7 @@ Available tools:
 - **Add a sound (WAV/OGG → BCWAV)** button to add new sounds to your theme
 
 ### Launcher preview tab
-![Launcher preview](screenshots/preview.png)
+![Launcher preview](screenshots/4_image.png)
 
 - Switch between the **Launch** and **Update** screens
 - Move the **Progress** slider to preview the progress bar
@@ -71,7 +71,7 @@ Available tools:
 
 ## 📡 Send your theme to the 3DS (FTP)
 
-![FTP dialog](screenshots/ftp.png)
+![FTP dialog](screenshots/3_image.png)
 
 1. On your 3DS, start an FTP server (e.g. **ftpd**) and note the IP address it shows.
 2. Make sure the 3DS and your computer are on the **same Wi-Fi network**.
@@ -105,13 +105,10 @@ The theme is installed on the SD card in `sdmc:/CTGP-7/MyStuff/LauncherFS`.
 
 ---
 
-## 🤝 Contributing
 
-Issues and pull requests are welcome. Feel free to suggest new features or report bugs.
 
 ## 📜 Credits
-
-- **CTGP-7** team for the launcher and the original assets
+- ** Mininator **
 - [`cwavtool`](https://github.com/) for the BCWAV conversion
 
 > This project is a fan-made tool and is not affiliated with Nintendo or the CTGP-7 team.
